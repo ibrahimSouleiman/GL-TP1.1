@@ -1,4 +1,4 @@
-echo "hello word"
+echo "hello word ibro"
 
 
 exit 0
